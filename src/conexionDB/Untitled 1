@@ -1,0 +1,4 @@
+Ventajas de las Consultas preparadas.
+- Permiten pasar parametros a las sentencias sql.
+- Previenen ataques de inyeccion sql.
+- Tienen un mejor rendimiento(Son sentencias precompiladas y reutilizables).
